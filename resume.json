@@ -1,0 +1,88 @@
+{
+  "name":"Bashir Murtaza",
+  "address":"1340 West 6th Street Brooklyn NY 11204",
+  "email":"bashirmurtaza93@gmail.com",
+  "website":"http://bashirmurtaza.com",
+  "phone":"646-715-7572",
+  "professional_experiance":
+    {
+      "0":
+        {
+          "company":"Cogent Entertainment Marketing",
+          "postion":"Full Stack Developer",
+          "date":"November 2015 – Present",
+          "description":
+          {
+            "0":"Built multiple responsive/mobile responsive sites using Bootstrap 3, HTML5, and CSS3",
+            "1":"Created and maintained multiple MySQL databases and MongoDB",
+            "2":"Deployed multiple websites and setup security measures and backups using Amazon Web Services",
+            "3":"Migrated websites from different hosting providers to Amazon Web Services",
+            "4":"Created a RESTful APIs using PHP",
+            "5":"Worked closely with UI/UX designers to create a concise and fluid user experience and interface",
+            "6":"Used Multiple Social Media API’s such as Instagram, Facebook, Twitter, and YouTube to access information and creating secure OAuth logins"
+          }
+      },
+      "1":
+      {
+        "company":"Cogent Entertainment Marketing",
+        "postion":"Manager",
+        "date":"December 2016 – Present",
+        "description":
+        {
+          "0":"Managed a development team and used various tools such as Git and Trello for version control and agile development on projects to keep productivity up and the workflow organized",
+          "1":"Created roadmaps for projects to ensure organization and productivity is met and that the project can be delivered at a specific date range"
+        }
+      },
+  },
+  "projects":
+    {
+      "0":
+      {
+          "title":"Corona Electric Beach",
+          "description":
+            {
+             "0":"Worked with UI/UX developers to help create the interface and design for the website",
+             "1":"Using multiple APIs such as Instagram, Twitter, Vimeo and Bands In Town  to keep the website up to date",
+             "2":"Used HTML5,CSS3, Bootstrap and SASS to create the content for the website"
+            }
+      },
+      "1":
+      {
+          "title":"Avocado And Toast",
+          "description":
+            {
+             "0":"Created a large and scalable database with MySQL to constantly update information",
+             "1":"Created  web scrapers using Python and PHP to gather additional information",
+             "2":"Used TypeScript to help with Javascript content"
+            }
+      },
+      "2":
+      {
+          "title":"Way Of Wade",
+          "description":
+            {
+             "0":"Built the brand site of way of wade through wordpress",
+             "1":"Keeping website up to date and editing the theme with PHP",
+             "2":"Created Email templates that get’s sent out on a weekly basis"
+            }
+      }
+    },
+  "education":
+    {
+      "school":"NYC College of Technology",
+      "year":"2016",
+      "degree":"Bachelors of Technology in Computer Systems"
+    },
+  "skills":
+    {
+      "tools":"Git, MySQL, MongoDB, Visual Studio 2013/2007, Visual Code, Atom, Microsoft Office 2013, Adobe Photoshop, Eclipse, Xcode and Unity",
+      "webdev":"HTML5, CSS3, SCSS, Haml, Javascript, Wordpress, Lightspeed , Squarespace",
+      "languages":"PHP, Python, C++, C, C#,  Java, Typescript, Scala",
+      "frameworks":"Bootstrap, Laravel, Express.js",
+      "devops":"Amazon Web Services EC2, Route 53, Workmail, RDS, S3, Docker, Vagrant, Github",
+      "computer_capabilities":"Windows XP/Vista/07/10, Kali Linux, Ubuntu and Mac OS X"
+
+    }
+
+
+}
